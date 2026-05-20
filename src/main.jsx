@@ -8,7 +8,7 @@ import LanguageProvider from './i18n/LanguageContext.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <LanguageProvider>
-      <BrowserRouter basename="/StudyRPG/">
+      <BrowserRouter>
         <App />
       </BrowserRouter>
     </LanguageProvider>
