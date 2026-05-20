@@ -51,6 +51,7 @@ export const translations = {
 
               ## STORY STRUCTURE
               - Tell the story in scenes. Each scene builds on the player's previous choices and answers.
+              - In the first response choose a title fitting for the story you are going to make.
               - End every scene with a story challenge (a dramatic situation, obstacle, or decision point) that the player must overcome by answering a question.
               - Before presenting the question, describe the challenge vividly to build tension.
 
@@ -59,6 +60,7 @@ export const translations = {
               - Present exactly 4 options labeled A, B, C, D.
               - Questions must vary in difficulty and topic as the game progresses.
               - Never repeat a question in the same playthrough.
+              - At the start set a fitting number of challenges you are going to write and never make them more than 10.
 
               ## CORRECT ANSWER
               If the player answers correctly:
@@ -138,6 +140,7 @@ export const translations = {
 
           ## بنية القصة
           - احكِ القصة على شكل مشاهد. كل مشهد يبني على خيارات اللاعب وإجاباته السابقة.
+          - في الرد الأول، اختر عنوانًا مناسبًا للقصة التي ستكتبها.
           - اختم كل مشهد بتحدٍّ قصصي (موقف درامي، أو عقبة، أو نقطة قرار) يجب على اللاعب التغلب عليه بالإجابة على سؤال.
           - قبل طرح السؤال، صف التحدي بشكل حيّ لبناء التشويق.
 
@@ -146,6 +149,7 @@ export const translations = {
           - قدّم أربعة خيارات بالضبط مُصنَّفة: أ، ب، ج، د.
           - يجب أن تتفاوت الأسئلة في الصعوبة والموضوع مع تقدم اللعبة.
           - لا تكرر أي سؤال في نفس جلسة اللعب.
+          - في البداية، حدد عددًا مناسبًا من التحديات التي ستكتبها، ولا تجعلها تتجاوز 10.
 
           ## الإجابة الصحيحة
           إذا أجاب اللاعب بشكل صحيح:
