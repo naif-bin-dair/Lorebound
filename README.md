@@ -21,7 +21,7 @@ Study RPG is a Gemini-powered adventure game designed to make studying interacti
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/naif-bin-dair/StudyRPG.git
-    cd Study-Adventure
+    cd StudyRPG
     ```
 
 2.  **Install dependencies:**
