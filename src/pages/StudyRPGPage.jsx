@@ -6,7 +6,7 @@ import remarkGfm from 'remark-gfm';
 import EmojiBackground from '../components/EmojiBackground';
 import { useLanguage } from '../i18n/useLanguage';
 
-const GEMINI_API_KEY = import.meta.env.GEMINI_API_KEY;
+const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 
 const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
 
