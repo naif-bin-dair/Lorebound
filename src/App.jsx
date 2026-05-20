@@ -6,7 +6,7 @@ export default function App() {
   return (
     <>
       <Routes>
-        <Route path="/StudyRPG" element={<LandingPage />} />
+        <Route path="/" element={<LandingPage />} />
         <Route path="/play" element={<StudyRPGPage />} />
       </Routes>
     </>
