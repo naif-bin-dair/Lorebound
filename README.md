@@ -1,6 +1,6 @@
-# Study Adventure
+# Study RPG
 
-Study Adventure is a Gemini-powered adventure game designed to make studying interactive and engaging. the web app transforms your study materials (PDFs) into a dynamic narrative where your knowledge determines your character's fate.
+Study RPG is a Gemini-powered adventure game designed to make studying interactive and engaging. the web app transforms your study materials (PDFs) into a dynamic narrative where your knowledge determines your character's fate.
 
 ## Features
 
@@ -20,7 +20,7 @@ Study Adventure is a Gemini-powered adventure game designed to make studying int
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/naif-bin-dair/Study-Adventure.git
+    git clone https://github.com/naif-bin-dair/StudyRPG.git
     cd Study-Adventure
     ```
 
