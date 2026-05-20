@@ -1,6 +1,6 @@
-# StudyRPG
+# Study Adventure
 
-StudyRPG is a Gemini-powered adventure game designed to make studying interactive and engaging. the web app transforms your study materials (PDFs) into a dynamic narrative where your knowledge determines your character's fate.
+Study Adventure is a Gemini-powered adventure game designed to make studying interactive and engaging. the web app transforms your study materials (PDFs) into a dynamic narrative where your knowledge determines your character's fate.
 
 ## Features
 
@@ -14,14 +14,14 @@ StudyRPG is a Gemini-powered adventure game designed to make studying interactiv
 1.  **Enter Character Details:** When the web app loads, provide your character's name and describe the world they live in (e.g., Cyberpunk City, High Fantasy Realm).
 2.  **Set Difficulty:** Choose your starting number of "Hearts" (3, 6, or 12).
 3.  **Upload Study Material:** Select a PDF file containing the information you need to learn.
-4.  **Start Adventure:** Engage with the narrator. When prompted with a multiple-choice question, type your choice to progress.
+4.  **Start Adventure:** Engage with the narrator. When prompted with a multiple-choice question, pick your choice to progress.
 
 ## Installation and Setup
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/naif-bin-dair/StudyRPG.git
-    cd StudyRPG
+    git clone https://github.com/naif-bin-dair/Study-Adventure.git
+    cd Study-Adventure
     ```
 
 2.  **Install dependencies:**

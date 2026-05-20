@@ -1,0 +1,25 @@
+.emoji-background {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.emoji-bg-item {
+  position: absolute;
+  line-height: 1;
+  opacity: 0.11;
+  user-select: none;
+  rotate: var(--rotate, 0deg);
+  animation: emoji-float 18s ease-in-out infinite;
+}
+
+@keyframes emoji-float {
+  0%, 100% {
+    translate: 0 0;
+  }
+  50% {
+    translate: 0 -10px;
+  }
+}
