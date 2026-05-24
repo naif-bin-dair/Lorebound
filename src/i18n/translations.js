@@ -1,10 +1,10 @@
 export const translations = {
   en: {
-    appTitle: 'Study RPG',
+    appTitle: 'Lorebound',
     langToggleLabel: 'العربية',
     landing: {
       tagline:
-        'In Study RPG you can turn your study notes into an interactive adventure. Answer questions from your material to survive the story, get high scores, and keep your hearts.',
+        'In Lorebound you can turn your study notes into an after class adventure. Answer questions from your material to survive the story, get high scores, and keep your hearts.',
       feature1: 'Name a character and choose your world',
       feature2: 'Upload a PDF of your study material',
       feature3: 'Face multiple-choice challenges woven into the narrative',

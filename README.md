@@ -1,6 +1,6 @@
-# Study RPG
+# Lorebound
 
-Study RPG is a Gemini-powered adventure game designed to make studying interactive and engaging. the web app transforms your study materials (PDFs) into a dynamic narrative where your knowledge determines your character's fate.
+Lorebound is a Gemini-powered adventure game designed to make studying interactive and engaging. the web app transforms your study materials (PDFs) into a dynamic narrative where your knowledge determines your character's fate.
 
 ## Features
 
