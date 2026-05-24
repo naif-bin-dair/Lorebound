@@ -20,8 +20,8 @@ Lorebound is a Gemini-powered adventure game designed to make studying interacti
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/naif-bin-dair/StudyRPG.git
-    cd StudyRPG
+    git clone https://github.com/naif-bin-dair/Lorebound.git
+    cd Lorebound
     ```
 
 2.  **Install dependencies:**
