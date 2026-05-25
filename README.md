@@ -128,13 +128,6 @@ While the current version is scoped as a single-session, after-class tool, the a
 
 ---
 
-## How to Use
-
-1.  **Enter Character Details:** When the web app loads, provide your character's name and describe the world they live in (e.g., Cyberpunk City, High Fantasy Realm).
-2.  **Set Difficulty:** Choose your starting number of "Hearts" (3, 6, or 12).
-3.  **Upload Study Material:** Select a PDF file containing the information you need to learn.
-4.  **Start Adventure:** Engage with the narrator. When prompted with a multiple-choice question, pick your choice to progress.
-
 ## Installation and Setup
 
 1.  **Clone the repository:**
